@@ -1,1 +1,3 @@
-# CalculatorApp# CalculatorApp
+# CalculatorApp
+
+<img src='calculator.gif' />
